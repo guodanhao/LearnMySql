@@ -1,12 +1,8 @@
-## 缓存的数据页类型
-
-- 索引页
-- 数据页
-- undo页
-- 插入缓冲页
-- 自适应哈希索引页
-- 锁信息
-- 数据字典信息
+## InnoDb体系结构
+- Master Thread
+- IO Thread
+- Purge Thread
+- Page Cleaner Thread
 
 ## InnoDB特性
 - 插入缓冲
